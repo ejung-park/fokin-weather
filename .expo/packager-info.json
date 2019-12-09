@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 55240,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 58494,
+  "expoServerNgrokUrl": "https://xq-hfn.ejung-park.fokin-weather.exp.direct",
+  "packagerNgrokUrl": "https://packager.xq-hfn.ejung-park.fokin-weather.exp.direct",
+  "ngrokPid": 58505
 }
