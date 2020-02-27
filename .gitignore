@@ -2,6 +2,7 @@ dist
 yarn-error.log
 yarn.lock
 .git
+.expo
 node_modules# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
